@@ -1,0 +1,5 @@
+macaco, monkey
+pessoa, person
+pais, parents
+rainha, queen
+coração, heart

@@ -1,0 +1,5 @@
+macaco, scimmia
+pessoa, persona
+pais, genitori
+rainha, regina
+coração, cuore

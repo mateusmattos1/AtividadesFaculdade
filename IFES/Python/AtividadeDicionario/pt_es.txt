@@ -1,0 +1,5 @@
+macaco, mono
+pessoa, persona
+pais, espanhol
+rainha, reina
+coração, corazon
