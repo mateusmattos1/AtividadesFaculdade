@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+* {
+  font-family: 'Oswald', sans-serif;
+}
+
+body {
+  background-color: rgb(0, 12, 24);
+  color: rgb(0, 184, 197);
+  width: 100vw;
+  margin: 40px;
+}
+
+.aluno {
+  display: flex;
+  max-width: 450px;
+  justify-content: space-between;
+}
+
+.estilo {
+  padding: 15px;
+  background-color: rgb(0, 23, 45);
+  color: rgb(0, 184, 197);
+}
+
+.nome {
+  flex-grow: 1;
+}
+
+.aprovado {
+  background-color: rgb(0, 255, 128);
+  color: rgb(0, 23, 45);
+}
+
+.reprovado {
+  background-color: rgb(255, 0, 72);
+  color: rgb(0, 23, 45);
+}
+
+button {
+  margin-top: 20px;
+  background-color: rgb(153,182,184);
+  color: rgb(0, 23, 45);
+  border: 3px solid rgb(81, 5, 129);
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+button:hover {
+  margin-top: 20px;
+  background-color: rgb(81, 5, 129);
+  color: rgb(255,255,255);
+  border: 3px solid rgb(153, 102, 184);
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.resultado {
+  width: 60px;
+}
+
+.input-nota {
+  background-color: rgb(0,23,45);
+  color: rgb(0, 184, 197);
+  border: 1px dashed rgb(0, 184, 197);
+  width: 35px;
+}
+
